@@ -143,8 +143,8 @@ La aplicación consume datos de [JSONPlaceholder](https://jsonplaceholder.typico
 ## Autor
 
 **Desarrollado por:** 
-Santiago Avila Barbudo
-Sandra Vanesa Florez Mayorga
+-Santiago Avila Barbudo
+-Sandra Vanesa Florez Mayorga
 ## Contribución
 
 Este proyecto fue desarrollado como parte del Taller Móvil 1, enfocándose en:
