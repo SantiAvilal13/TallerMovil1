@@ -26,8 +26,8 @@ MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\avila\
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\891098c188652d0d9e57ff631516136f\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\72cc1c6c1cc70f96018959aaf0f7959b\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\eda1b687f1e438bb4b4aef866e83841d\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\bf9ebfb738cff83ff0aafb3733252673\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\1487fa15c4b3999d5998979afe9edc15\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\bf9ebfb738cff83ff0aafb3733252673\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\46df441529a1c445085277917b1304fe\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\40d547f88d0272ebb90cc2c55f57a8ca\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\0b14683458c51f3f8bac2e99c52cc7e0\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
@@ -196,10 +196,10 @@ MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\avil
 MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\72cc1c6c1cc70f96018959aaf0f7959b\transformed\foundation-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\eda1b687f1e438bb4b4aef866e83841d\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\eda1b687f1e438bb4b4aef866e83841d\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\bf9ebfb738cff83ff0aafb3733252673\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\bf9ebfb738cff83ff0aafb3733252673\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\1487fa15c4b3999d5998979afe9edc15\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\1487fa15c4b3999d5998979afe9edc15\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\bf9ebfb738cff83ff0aafb3733252673\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\bf9ebfb738cff83ff0aafb3733252673\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\46df441529a1c445085277917b1304fe\transformed\ui-util-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\46df441529a1c445085277917b1304fe\transformed\ui-util-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\avila\.gradle\caches\transforms-3\40d547f88d0272ebb90cc2c55f57a8ca\transformed\ui-text-release\AndroidManifest.xml:5:5-44

@@ -29,9 +29,9 @@ class UserViewModel : ViewModel() {
         viewModelScope.launch {
             _uiState.value = _uiState.value.copy(isLoading = true, errorMessage = null)
             try {
-                val response = apiClient.getUsers()
+                val allUsers = apiClient.getAllUsers()
                 _uiState.value = _uiState.value.copy(
-                    users = response.users,
+                    users = allUsers,
                     isLoading = false
                 )
             } catch (e: Exception) {

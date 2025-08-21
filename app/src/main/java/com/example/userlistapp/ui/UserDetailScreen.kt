@@ -155,6 +155,11 @@ fun UserDetailScreen(
                         isClickable = true,
                         onClick = { dialPhoneNumber(context, user.phone) }
                     )
+                    InfoRow("Usuario", "@${user.username}")
+                    InfoRow("Fecha de nacimiento", user.birthDate)
+                    InfoRow("Grupo sanguíneo", user.bloodGroup)
+                    InfoRow("Altura", "${user.height} cm")
+                    InfoRow("Peso", "${user.weight} kg")
                 }
 
                 InfoCard(
@@ -163,6 +168,16 @@ fun UserDetailScreen(
                     InfoRow("Empresa", user.company.name)
                     InfoRow("Cargo", user.company.title)
                     InfoRow("Departamento", user.company.department)
+                    InfoRow("Dirección empresa", "${user.company.address.address}, ${user.company.address.city}")
+                    InfoRow("Universidad", user.university)
+                }
+
+                InfoCard(
+                    title = "Apariencia Física"
+                ) {
+                    InfoRow("Color de ojos", user.eyeColor)
+                    InfoRow("Color de cabello", user.hair.color)
+                    InfoRow("Tipo de cabello", user.hair.type)
                 }
 
                 InfoCard(
@@ -172,6 +187,25 @@ fun UserDetailScreen(
                     InfoRow("Ciudad", user.address.city)
                     InfoRow("Estado", user.address.state)
                     InfoRow("País", user.address.country)
+                    InfoRow("Código postal", user.address.postalCode)
+                    InfoRow("Coordenadas", "${user.address.coordinates.lat}, ${user.address.coordinates.lng}")
+                }
+
+                InfoCard(
+                    title = "Información Bancaria"
+                ) {
+                    InfoRow("Número de tarjeta", "**** **** **** ${user.bank.cardNumber.takeLast(4)}")
+                    InfoRow("Tipo de tarjeta", user.bank.cardType)
+                    InfoRow("Moneda", user.bank.currency)
+                    InfoRow("IBAN", user.bank.iban)
+                }
+
+                InfoCard(
+                    title = "Criptomonedas"
+                ) {
+                    InfoRow("Moneda", user.crypto.coin)
+                    InfoRow("Wallet", user.crypto.wallet)
+                    InfoRow("Red", user.crypto.network)
                 }
             }
         }

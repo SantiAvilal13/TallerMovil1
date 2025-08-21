@@ -87,6 +87,5 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
-    implementation("androidx.compose.ui:ui-graphics:1.5.4")
-    implementation("io.coil-kt:coil-compose:2.4.0")
+
 }
